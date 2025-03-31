@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Put the volume-ids you want backed up in the VOLUME_A & VOLUME_B variables.  
-# Change "prod42" to whatever hostname you'd like.
+# Change "prod42" to whatever hostname you'd like.  Adjust filesystem name to
+# what you're using. 
 
 # Dude, where's my var?
 VOLUME_A="vol-0xxxxxxxxxxxxxxxx"
