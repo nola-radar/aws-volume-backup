@@ -2,7 +2,7 @@
 
 # Put the volume-ids you want backed up in the VOLUME_A & VOLUME_B variables.  
 # Change "prod42" to whatever hostname you'd like.  Adjust filesystem name to
-# what you're using. 
+# what you're using (/dev/sda and /dev/sdb in this case). 
 
 # Dude, where's my var?
 VOLUME_A="vol-0xxxxxxxxxxxxxxxx"
